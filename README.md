@@ -10,4 +10,4 @@ GeekHub is a website designed to help users check PC part compatibility, calcula
 3. Eesa Khan (01-135252-020)
 
 **Live Website:**
-[Link will be placed here after Phase 5]
+https://talalabdullah-1.github.io/GeekHub/
